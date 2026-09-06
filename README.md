@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi, I'm Mohit Kashyap Choubey 👋<br>I'm a Computer Science student passionate about data, analytics, and building practical solutions with Python and SQL. I enjoy turning raw data into meaningful insights through dashboards, automation, and machine learning projects.<br>🚀 Currently Learning<br>Python for Data Analysis<br>SQL & Database Design<br>Power BI<br>Statistics & Machine Learning<br>Cloud Fundamentals (AWS)<br>💻 Tech Stack<br>Python<br>SQL (PostgreSQL)<br>Power BI<br>Excel<br>Pandas<br>NumPy<br>Matplotlib<br>Scikit-learn<br>Git & GitHub<br>📌 Interests<br>Data Analytics<br>Machine Learning<br>Business Intelligence<br>Data Visualization<br>Process Automation<br>🌱 Current Goal<br>Build a strong portfolio of real-world analytics and machine learning projects while preparing for Data Analyst and Data Science opportunities.<br>
+Hi, I'm Mohit Kashyap Choubey 👋<br>I'm a Computer Science student passionate about data, analytics, and building practical solutions with Python and SQL. I enjoy turning raw data into meaningful insights through dashboards, automation, and machine learning projects.<br>🚀 Currently Learning<br>Python for Data Analysis<br>SQL & Database Design<br>Power BI<br>Statistics & Machine Learning<br>Cloud Fundamentals (AWS)<br>💻 Tech Stack<br>Python<br>SQL (PostgreSQL)<br>Power BI<br>Excel<br>Pandas<br>NumPy<br>Matplotlib<br>Scikit-learn<br>Git & GitHub<br>📌 Interests<br>Data Analytics<br>Machine Learning<br>Business Intelligence<br>Data Visualization<br>Process Automation<br>🌱 Current Goal<br>Build a strong portfolio of real-world analytics and machine learning projects while preparing for Data Analyst and Data Science opportunities.
+My portfolio: https://mohit-kashyap-choubey.vercel.app/#contact<br>
 
 
 ## 🌐 Socials:
@@ -11,11 +12,3 @@ Hi, I'm Mohit Kashyap Choubey 👋<br>I'm a Computer Science student passionate 
 ![](https://github-readme-stats.shion.dev/api?username=Mohit-Kashyap-Choubey&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Mohit-Kashyap-Choubey&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mohit-Kashyap-Choubey&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://komarev.com/ghpvc/?username=Mohit-Kashyap-Choubey&icon=0&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
